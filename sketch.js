@@ -14,10 +14,10 @@ function setup() {
   let btn4 = createButton('');
   
   // Position buttons
-  btn1.position(150, 200);
-  btn2.position(150, 240);
-  btn3.position(150, 280);
-  btn4.position(150, 320);
+  btn1.position(900, 200);
+  btn2.position(900, 240);
+  btn3.position(900, 280);
+  btn4.position(900, 320);
   
   // Attach event handlers for buttons
   attachHoverEffect(btn1);
